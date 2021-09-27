@@ -1,0 +1,19 @@
+{
+  "components": [
+    {
+      "id": "button",
+      "title": "Button",
+      "url": "/components/button"
+    },
+    {
+      "id": "card",
+      "title": "Card",
+      "url": "/components/card"
+    },
+    {
+      "id": "modal",
+      "title": "Modal",
+      "url": "/components/modal"
+    }
+  ]
+}
